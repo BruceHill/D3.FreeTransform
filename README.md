@@ -5,8 +5,9 @@ A port of Raphael.FreeTransform to D3. A freetransform tool for D3 that supports
 Licensed under [MIT License]
 
 ## Demo
-Full demo: http://jsfiddle.net/3ya4y7p1/
-Simplified demo: http://jsfiddle.net/2o5g7v5a/
+Full demo: http://jsfiddle.net/mL8tkevL/
+
+Simplified demo: http://jsfiddle.net/3z4mdo4e/
 
 ## Demo code
 Here is the code from the simplified demo.  Note that the shapes are being instantiated from SVG strings using the D3.AppendSvg plugin that is included in the source for D3.FreeTransform. There is no separate repository for D3.AppendSvg at this stage.
