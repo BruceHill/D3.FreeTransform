@@ -100,12 +100,12 @@ Valid flags: 'scxy'
 
 Meaning of flags:
 
-    | flag    | Meaning |
-    | --------|-------- |
-    | s       | side    |
-    | c       | corner  |
-    | x       | x-axis  |
-    | y       | y-axis  |
+| flag    | Meaning |
+| --------|-------- |
+| s       | side    |
+| c       | corner  |
+| x       | x-axis  |
+| y       | y-axis  |
 
 Default: 'sc'
 
@@ -121,12 +121,12 @@ Valid flags: 'scxy'
 
 Meaning of flags: 
 
-    | flag    | Meaning |
-    | --------|-------- |
-    | s       | side    |
-    | c       | corner  |
-    | x       | x-axis  |
-    | y       | y-axis  |
+| flag    | Meaning |
+| --------|-------- |
+| s       | side    |
+| c       | corner  |
+| x       | x-axis  |
+| y       | y-axis  |
 
 Default: 'x'
 
@@ -142,12 +142,12 @@ Valid flags: 'scxy'
 
 Meaning of flags: 
 
-    | flag    | Meaning |
-    | --------|-------- |
-    | s       | side    |
-    | c       | corner  |
-    | x       | x-axis  |
-    | y       | y-axis  |
+| flag    | Meaning |
+| --------|-------- |
+| s       | side    |
+| c       | corner  |
+| x       | x-axis  |
+| y       | y-axis  |
 
 
 Default: ''
